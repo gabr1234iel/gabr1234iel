@@ -1,5 +1,7 @@
-## Hi there 👋
+# Hi, i'm Gabriel! 👋
 
+<img alt="my stats" align="left" width="53%" src="https://github-readme-stats.vercel.app/api?username=gabr1234iel&show_icons=true&theme=dark"/>
+<img alt="my top languages" align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1234iel&layout=compact&theme=dark"/>
 <!--
 **gabr1234iel/gabr1234iel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
